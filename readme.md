@@ -6,11 +6,6 @@ This code helps in getting the steering angle of self driving car.
 1) [Udacity Self driving car](https://github.com/udacity/CarND-Behavioral-Cloning-P3)
 2) [End to End Learning for Self-Driving Cars](https://devblogs.nvidia.com/deep-learning-self-driving-cars/)
 
-## Versions 🗽
-
-1) [Autopilot Version 1](https://github.com/akshaybahadur21/Autopilot)
-2) [Autopilot Version 2](https://github.com/akshaybahadur21/Autopilot/tree/master/Autopilot_V2)
-
 ## Code Requirements 🦄
 You can install Conda for python which resolves all the dependencies for machine learning.
 
@@ -37,9 +32,7 @@ If you face any problem, kindly raise an issue
 2) Now you need to have the data, run `Train_pilot.py` which will load data from pickle. After this, the training process begins.
 3) For testing it on the video, run `AutopilotApp_V2.py`
 
-### Results 📊
 
-<img src="https://github.com/akshaybahadur21/BLOB/blob/master/v2.gif">
 
 ## References 🔱
  
